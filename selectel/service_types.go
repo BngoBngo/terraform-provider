@@ -1,6 +1,7 @@
 package selectel
 
 const (
+	DedicatedServer    = "managed-dedicated"
 	DBaaS              = "managed-database"
 	MKS                = "managed-kubernetes"
 	CRaaS              = "container-registry"
